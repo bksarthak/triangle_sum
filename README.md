@@ -5,7 +5,7 @@ Calculate the sum of the maximum of numbers present in each line
 
 
 Triangle Sum
-By starting at the top of the triangle and moving to adjacent numbers on the row below, the maximum total from top to bottom is 29.
+By starting at the top of the triangle and moving to the row below, the maximum total from top to bottom is 29.
 
         5
       9  6
